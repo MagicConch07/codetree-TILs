@@ -14,7 +14,7 @@ int main() {
         int num = 0;
         cin >> num;
 
-        if(min > (num - input))
+        if(input =! 0 || min > (num - input))
         {
             min = (num - input);
         }
