@@ -4,7 +4,7 @@ using namespace std;
 int main() {
     // 여기에 코드를 작성해주세요.
     int n = 0;
-    int min = 99999999999;
+    int min = 99999999999999;
     int input = 0;
 
     cin >> n;
